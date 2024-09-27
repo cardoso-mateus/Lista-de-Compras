@@ -13,14 +13,14 @@ Também é possível selecionar um checkbox para informar que o item foi comprad
 ## Próximas funcionalidades
 
 Persistência de dados.
-Organização de itens
-Quantificação de itens
-Favcon dos itens
+Organização de itens.
+Quantificação de itens.
+Favcon dos itens.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
 As técnicas e tecnologias utilizadas pra isso são:
 
 - `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
-- `HTML`: criação dos elementos da tela;
-- `CSS`: estilização da aplicação;
+- `HTML`: criação dos elementos da tela.
+- `CSS`: estilização da aplicação.
