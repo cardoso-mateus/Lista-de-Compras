@@ -6,10 +6,16 @@ O projeto sofreu alterações afim de buscar melhorias no código e novas funcio
 
 ## 🔨 Funcionalidades do projeto
 
-A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo a exclusão e edição dos mesmos./n
+A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo a exclusão e edição dos mesmos.
 Os itens terão o nome e também a data e horário que foram criados.
 Também é possível selecionar um checkbox para informar que o item foi comprado.
-A lista será salva no local storage (não implementado).
+
+## Próximas funcionalidades
+
+Persistência de dados.
+Organização de itens
+Quantificação de itens
+Favcon dos itens
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
