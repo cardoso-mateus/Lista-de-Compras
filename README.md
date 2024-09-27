@@ -13,6 +13,7 @@ Também é possível selecionar um checkbox para informar que o item foi comprad
 ## Próximas funcionalidades
 
 Persistência de dados.
+Contador de visitantes.
 Organização de itens.
 Quantificação de itens.
 Favcon dos itens.
