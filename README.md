@@ -1,7 +1,7 @@
 # Lista de Compras
 
 Single page aplication dinâmica para uma lista de compras.
-Aplicação web de lista de compras baseado no curso de construção de páginas dinâmicas com JavaScript.
+Aplicação web de lista de compras baseado no curso de construção de páginas dinâmicas com JavaScript da professora Monica Hillman.
 O projeto sofreu alterações afim de buscar melhorias no código e novas funcionalidades.
 
 ## 🔨 Funcionalidades do projeto
