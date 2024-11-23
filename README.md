@@ -25,3 +25,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
 - `HTML`: criação dos elementos da tela.
 - `CSS`: estilização da aplicação.
+
+## Pode ser acessado em
+
+https://lista-de-compras-navy.vercel.app/
